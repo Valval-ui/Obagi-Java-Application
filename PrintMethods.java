@@ -13,7 +13,7 @@ public class PrintMethods{
 		System.out.printf("My name is %s and I love %s%n","John","Java");
 		System.out.printf("I am living in NO.%d kaduna street%n",1);
 		System.out.printf("I bought Java JDK with %f Naira",159.345);
-		System.out.printf(" I bought Java JDK with %.1f Naira %n",159.345);
+		System.out.printf(" I bought Java JDK with %.2f Naira %n",159.345);
 		System.out.printf("I bought Java JDK with %c%f %n",'$',159.345);
 	}	
 }
